@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Front-end Software Engineer, designer, audiofile, and forever a student based in the Johannesburg area. I'm interested in development, music, and building amazing front-ends online. I work on random projects in my free time! 
+I'm a Front-End Software Engineer, designer, audiofile, and forever a student based in the Johannesburg area. I'm interested in development, music, and building amazing front-ends online. I work on random projects in my free time! 
 
 ## Welcome to my GitHub
 ### Platforms & Skills:
