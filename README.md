@@ -4,4 +4,4 @@ I'm a Front-end Software Engineer, designer, audiofile, and forever a student ba
 
 ## Welcome to my GitHub
 ### Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,md,css,tailwind,sass,js,jquery,react,wasm,vscode,wordpress,mongodb,nodejs,java,py,cloudflare,git,figma,xd&perline=4)]
+[![My Skills](https://skillicons.dev/icons?i=html,md,css,tailwind,sass,js,jquery,react,wasm,vscode,wordpress,mongodb,nodejs,postman,java,py,cloudflare,git,figma,xd&perline=4)]
