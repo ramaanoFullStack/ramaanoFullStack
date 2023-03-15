@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
-**ramaanoFullStack/ramaanoFullStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-end Software Engineer, designer, audiofile, and forever a student based in the Johannesburg area. I'm interested in development, music, and building amazing front-ends online. I work on random projects in my free time! Welcome to my GitHub
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,wasm)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=html,md,css,tailwind,js,jquery,react,wasm,sql,mongodb,nodejs,java,py,cloudflare,git,figma)]
+(https://skillicons.dev)
