@@ -13,4 +13,8 @@ I'm a Front-End Software Engineer, designer, audiofile, and forever a student ba
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramaanoFullStack&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   </details>
 
+### Currently Listening to:
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=vtv2rc8zlva1hcy6zcim6e6lp&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=vtv2rc8zlva1hcy6zcim6e6lp&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=a8c6fe&bar_color_cover=true)]]
+
   ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/477876548721049611?simple=true)
