@@ -13,4 +13,4 @@ I'm a Front-End Software Engineer, designer, audiofile, and forever a student ba
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramaanoFullStack&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   </details>
 
-  ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+  ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/477876548721049611?simple=true)
