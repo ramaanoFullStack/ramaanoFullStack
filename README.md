@@ -15,6 +15,6 @@ I'm a Front-End Software Engineer, designer, audiofile, and forever a student ba
 
 ### Currently Listening to:
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=vtv2rc8zlva1hcy6zcim6e6lp&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=vtv2rc8zlva1hcy6zcim6e6lp&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=a8c6fe&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vtv2rc8zlva1hcy6zcim6e6lp&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
   ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/477876548721049611?simple=true)
