@@ -6,12 +6,12 @@ I am a Front-End Software Engineer, Designer, and an avid lover of music, contin
 ### Platforms & Skills:
 ![My Skills](https://skillicons.dev/icons?i=html,md,css,tailwind,sass,js,jquery,react,wasm,vscode,codepen,wordpress,mongodb,nodejs,bash,postman,c,py,cloudflare,git,figma,xd&perline=11)
 
-<details>
-<summary>Github Stats ⚡</summary>
+
+#### Github Stats ⚡
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ramaanoFullStack&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramaanoFullStack&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-  </details>
+
 
 ### Currently Listening to:
 
