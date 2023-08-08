@@ -15,6 +15,6 @@ I am a Front-End Software Engineer, Designer, and an avid lover of music, contin
 
 ### Currently Listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vtv2rc8zlva1hcy6zcim6e6lp&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001388.48a0f06a078e48918588a839c36324b9.0553)](https://github.com/rayriffy/apple-music-github-profile)
 
   <!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/477876548721049611?simple=true) -->
