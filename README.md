@@ -13,8 +13,8 @@ I am a Front-End Software Engineer, Designer, and an avid lover of music, contin
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramaanoFullStack&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a> -->
 
 
-### Currently Listening to:
+<!--### Currently Listening to:
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001388.48a0f06a078e48918588a839c36324b9.0553)](https://github.com/rayriffy/apple-music-github-profile)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001388.48a0f06a078e48918588a839c36324b9.0553)](https://github.com/rayriffy/apple-music-github-profile) -->
 
   <!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/477876548721049611?simple=true) -->
